@@ -42,3 +42,13 @@
 * thickness:   
 * material:   
  
+
+### oolc_5_oobb_plate_label_3_3_day_type
+* link: [/oolc_5_oobb_plate_label_3_3_day_type](oolc_5_oobb_plate_label_3_3_day_type)  
+![](oolc_5_oobb_plate_label_3_3_day_type/working_300.png)  
+![](oolc_5_oobb_plate_label_3_3_day_type/image_300.jpg)  
+* width:   
+* height:   
+* thickness:   
+* material:   
+ 
