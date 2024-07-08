@@ -2,5 +2,11 @@ project_id: oomlout_oobb_organizing_calendar_holiday_summer_planning
 project_name: Oomlout Oobb Organizing Calendar Holiday Summer Planning
 project_repo: https://github.com/oomlout/oomlout_oobb_organizing_calendar_holiday_summer_planning
 production_format:
-  oolc_1:
+  oolc_1_oobb_plate_66_37:
     file_location: source_files/oolc_1.cdr
+  oolc_2_oobb_plate_label_3_2_day:
+    file_location: source_files/oolc_2.cdr
+  oolc_3_oobb_plate_label_7_3_month:
+    file_location: source_files/oolc_3.cdr
+  oolc_4_oobb_plate_label_9_5_main:
+    file_location: source_files/oolc_4.cdr
