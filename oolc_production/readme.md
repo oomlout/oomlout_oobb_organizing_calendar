@@ -33,10 +33,10 @@
 * material:   
  
 
-### oolc_4_oobb_plate_label_9_5_main
-* link: [/oolc_4_oobb_plate_label_9_5_main](oolc_4_oobb_plate_label_9_5_main)  
-![](oolc_4_oobb_plate_label_9_5_main/working_300.png)  
-![](oolc_4_oobb_plate_label_9_5_main/image_300.jpg)  
+### oolc_4_oobb_plate_label_9_3_main
+* link: [/oolc_4_oobb_plate_label_9_3_main](oolc_4_oobb_plate_label_9_3_main)  
+![](oolc_4_oobb_plate_label_9_3_main/working_300.png)  
+![](oolc_4_oobb_plate_label_9_3_main/image_300.jpg)  
 * width:   
 * height:   
 * thickness:   

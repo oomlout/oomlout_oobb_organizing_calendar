@@ -5,7 +5,7 @@
 viewBox="0 0 21000 29700"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <font id="FontID0" horiz-adv-x="749" font-variant="normal" fill-rule="nonzero" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" font-weight="900">
+  <font id="FontID0" horiz-adv-x="749" font-variant="normal" fill-rule="nonzero" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" font-style="normal" font-weight="900">
 	<font-face 
 		font-family="Segoe UI Black">
 	</font-face>
@@ -22,7 +22,7 @@ viewBox="0 0 21000 29700"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_1076832096">
+  <g id="_774437280">
    <path fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" d="M3800 16550l0 -3400c0,-276 224,-500 500,-500l12400 0c276,0 500,224 500,500l0 3400c0,276 -224,500 -500,500l-12400 0c-276,0 -500,-224 -500,-500z"/>
    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="15000" cy="13350" r="375"/>
    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="16500" cy="13350" r="375"/>
