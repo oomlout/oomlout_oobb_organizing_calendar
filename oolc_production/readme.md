@@ -52,3 +52,13 @@
 * thickness:   
 * material:   
  
+
+### oolc_6_oobb_plate_label_3_3_a4_sheet
+* link: [/oolc_6_oobb_plate_label_3_3_a4_sheet](oolc_6_oobb_plate_label_3_3_a4_sheet)  
+![](oolc_6_oobb_plate_label_3_3_a4_sheet/working_300.png)  
+![](oolc_6_oobb_plate_label_3_3_a4_sheet/image_300.jpg)  
+* width:   
+* height:   
+* thickness:   
+* material:   
+ 

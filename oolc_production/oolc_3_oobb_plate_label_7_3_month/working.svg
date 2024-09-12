@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="450mm" height="450mm" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 45000 45000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="750" font-variant="normal" fill-rule="nonzero" stroke-width="33.34" stroke-linecap="round" stroke-linejoin="round" font-weight="900">
+	<font-face 
+		font-family="Segoe UI Black">
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="D" horiz-adv-x="758"><path d="M729.002 358.835c0,-70.9984 -14.8346,-133.669 -44.6677,-188.17 -29.8331,-54.5008 -72.3339,-96.6614 -127.666,-126.167 -55.3323,-29.663 -119.169,-44.4976 -191.332,-44.4976l-296.334 0 0 700 289.997 0c246.671,0 370.003,-113.669 370.003,-341.165zm-224 -2.00315c0,34.1669 -6.83465,65.0016 -20.6677,92.3339 -13.8331,27.3323 -33.6693,48.3339 -59.3323,63.3323 -25.6693,15.0047 -56,22.5008 -90.8346,22.5008l-54.1669 0 0 -369.997 58.9984 0c50.5008,0 90.8346,17.3291 120.838,52 30.1669,34.6646 45.1654,81.3291 45.1654,139.83z"/></glyph>
+   <glyph unicode="A" horiz-adv-x="750"><path d="M508 0l-30.8346 129.002 -209.002 0 -33.1654 -129.002 -228 0 241.165 700 261.839 0 226.998 -700 -229.002 0zm-133.165 548l-4.8315 0c-0.667717,-7.83622 -2.83465,-20.6677 -6.83465,-38.5008 -3.83622,-17.9969 -23.6661,-94.8346 -59.1685,-230.501l134.003 0 -48.8378 190.337c-6.83465,28 -11.6661,54.3307 -14.3307,78.6646z"/></glyph>
+   <glyph unicode="c" horiz-adv-x="495"><path d="M462.003 14.3307c-13.3354,-7.82992 -34.337,-14.1669 -63.0047,-18.9984 -28.6677,-4.8315 -61.663,-7.33228 -98.9984,-7.33228 -52.8315,0 -100,10.6646 -141.335,32 -41.4992,21.3354 -73.663,51.1685 -96.4976,89.4992 -22.8346,38.337 -34.1669,81.4992 -34.1669,129.335 0,57.1654 12.1638,106.167 36.3339,146.998 24.3339,40.8315 58.8346,72.1701 103.83,93.6693 44.8378,21.663 97.0016,32.4976 156.17,32.4976 32.4976,0 61.8331,-2.16693 87.6661,-6.33071 25.8331,-4.17008 42.5008,-9.17165 50.0031,-14.6709l0 -161.997c-10.337,8.16378 -25.3354,15.3323 -44.8378,21.663 -19.4961,6.16693 -37.663,9.33543 -54.1669,9.33543 -40.6677,0 -71.4961,-9.66929 -92.4976,-29.1654 -21.0016,-19.3323 -31.5024,-46.6709 -31.5024,-81.8331 0,-34.5008 10.337,-61.3354 31.0047,-80.3339 20.6614,-19.1685 48.9953,-28.6677 85.1654,-28.6677 38.6646,0 74.3307,9.33543 106.835,28l0 -153.669z"/></glyph>
+   <glyph unicode="t" horiz-adv-x="417"><path d="M402.003 6.99843c-9.50551,-4.49764 -24.8378,-8.8315 -46.337,-12.8315 -21.4992,-4.17008 -47.3323,-6.16693 -77.663,-6.16693 -57.8394,0 -103.169,16 -136,47.8362 -32.6677,31.8299 -49.0016,77.3291 -49.0016,136.164l0 184 -78.9984 0 0 144 78.9984 0 0 98.3307 205.002 56.6677 0 -154.998 104 0 0 -144 -104 0 0 -149.997c0,-44 17.4992,-66.0031 52.3276,-66.0031 16.1701,0 33.5055,3.66614 51.6724,10.9984l0 -144z"/></glyph>
+   <glyph unicode="O" horiz-adv-x="765"><path d="M734.998 352.164c0,-70.3307 -15.1622,-133.165 -45.3291,-188.661 -30.337,-55.5024 -72.6677,-98.6709 -127.005,-129.335 -54.3307,-30.8346 -115.162,-46.1669 -182.665,-46.1669 -65.6693,0 -125.499,14.8346 -179.332,44.6677 -53.8331,29.8331 -95.8362,71.6661 -125.833,125.499 -29.8331,53.8331 -44.8315,114.835 -44.8315,182.835 0,71.3323 15.1622,135.332 45.3291,192.334 30.337,56.9953 72.8315,100.995 127.502,132 54.6646,31.1622 116.831,46.6646 186.501,46.6646 66.9984,0 126.998,-14.8346 179.83,-44.6677 53.0016,-29.8331 93.8331,-72.3339 122.671,-127.496 28.8315,-55.1685 43.1622,-117.669 43.1622,-187.672zm-224 -5.99685c0,57.4992 -10.9984,102.835 -33.1654,136 -22.1669,33.1654 -52.3339,49.8331 -90.6646,49.8331 -42.0031,0 -74.6709,-16 -98.0031,-47.8362 -23.4961,-31.8299 -35.1622,-76.8315 -35.1622,-135.162 0,-56.8378 11.6661,-101.335 34.8283,-133.165 23.3323,-31.8362 54.8346,-47.8362 94.8346,-47.8362 24.4976,0 46.337,7.1685 65.8331,21.4992 19.5024,14.337 34.6646,34.8346 45.3354,61.4992 10.8346,26.6709 16.1638,58.337 16.1638,95.1685z"/></glyph>
+   <glyph unicode="n" horiz-adv-x="626"><path d="M374.003 0l0 273.002c0,30.9984 -4.66772,53.1654 -13.8394,66.6646 -9.32913,13.4992 -24.3276,20.3339 -45.1654,20.3339 -17.8331,0 -31.8299,-6.99843 -41.8331,-21.0016 -10.1669,-13.9969 -15.1622,-32 -15.1622,-53.663l0 -285.335 -208 0 0 500 208 0 0 -77.9969 1.99685 0c16.4976,28.4976 38.8346,50.6646 66.8346,66.3307 28,15.8299 58.3307,23.6661 91.1685,23.6661 109.329,0 164,-69.0016 164,-206.998l0 -305.002 -208 0z"/></glyph>
+   <glyph unicode="h" horiz-adv-x="617"><path d="M372 0l0 285.335c0,49.8331 -18.9984,74.6646 -57.0016,74.6646 -18.5008,0 -32.6677,-6.99843 -42.3307,-21.1654 -9.83307,-14.1669 -14.6646,-32.3339 -14.6646,-54.5008l0 -284.334 -208 0 0 740 208 0 0 -308 1.99685 0c17.8331,25.6693 39.5024,45.4992 65.0016,59.3323 25.4992,13.8331 53.0016,20.6677 82.1669,20.6677 53.9969,0 95.1622,-17.3354 123.332,-52 28.3339,-34.6646 42.5008,-85.6693 42.5008,-153.002l0 -306.998 -201.002 0z"/></glyph>
+   <glyph unicode="F" horiz-adv-x="541"><path d="M280 534.998l0 -125.997 208 0 0 -165.002 -208 0 0 -244 -210.998 0 0 700 438.998 0 0 -165.002 -228 0z"/></glyph>
+   <glyph unicode="y" horiz-adv-x="574"><path d="M146.998 -234.998c-19.4961,0 -40.4976,1.66299 -62.9984,5.16535 -22.3307,3.33228 -42.5008,8.33386 -60,14.8346l0 156.995c8.16378,-6.16063 20.1638,-12 36.3339,-17.1654 16,-5.16535 31.3323,-7.82992 45.4992,-7.82992 38.6646,0 64.3339,15.3323 77.0016,45.8331l16.1638 39.1685 -209.002 497.997 230.003 0 60.6677 -241.165c11.6661,-45.0016 17.9969,-75.1685 18.9984,-90.8346l2.00315 0c0.995276,7.1685 2.33071,15.1685 4.16378,24 1.83307,8.66772 27.1685,111.332 76,308l202.167 0 -184 -514.331c-27.6661,-78.6709 -61.9969,-135.169 -102.835,-169.335 -40.8315,-34.1669 -90.8346,-51.3323 -150.167,-51.3323z"/></glyph>
+   <glyph unicode="v" horiz-adv-x="587"><path d="M414.167 0l-247.169 0 -166.998 500 216.831 0 61.0016 -272.831c9.83307,-44 15.1685,-77.0016 16.1701,-99.1685l2.99843 0c0.667717,6.50079 1.49921,13.1654 2.66457,20 1.16535,6.83465 25.3354,124.164 72.4976,352l215.836 0 -173.833 -500z"/></glyph>
+   <glyph unicode="e" horiz-adv-x="560"><path d="M229.002 190.998c3.66614,-21.4992 16,-38.3307 37.1654,-50.6646 21.1654,-12.1701 49.1654,-18.3307 84,-18.3307 48.4976,0 94.5008,9.32913 137.833,28l0 -131.672c-50.5008,-20.1638 -111.666,-30.3307 -183.666,-30.3307 -87.1685,0 -154.998,22.3307 -203.502,66.8346 -48.4976,44.4976 -72.8315,105.833 -72.8315,184 0,53.663 10.6646,101.002 32,141.997 21.3354,40.8378 52.8315,73.0016 94.6646,96.3339 41.8331,23.1685 87.8362,34.8346 138.337,34.8346 51.6661,0 96,-9.99685 132.831,-30.1669 36.6677,-20.1638 64.6677,-48.4976 83.6661,-85.0016 18.9984,-36.3339 28.5039,-78.9984 28.5039,-127.83l0 -78.0031 -309.002 0zm125.002 109.002c0,57.3354 -20.6677,86.0031 -62.0031,86.0031 -17.3354,0 -31.6661,-7.83622 -43.5024,-23.5024 -11.6661,-15.8362 -18.4945,-36.4976 -20.4976,-62.5008l126.003 0z"/></glyph>
+   <glyph unicode="s" horiz-adv-x="482"><path d="M456 166.167c0,-56.4976 -21.4992,-100.498 -64.6677,-131.502 -43.1685,-31.1622 -103.169,-46.6646 -180.334,-46.6646 -22.5008,0 -50.1669,2.33071 -83.1622,6.83465 -33.1717,4.49764 -60,9.99685 -80.8378,16.4976l0 145.669c61.4992,-27.3323 112.838,-41.0016 154.003,-41.0016 40.6677,0 61.0016,10.5008 61.0016,31.6661 0,8.8315 -4.66772,16.1701 -14.1669,21.8331 -9.33543,5.66929 -34.1669,15.1685 -74.0031,28.5039 -44.3339,13.9969 -76.4976,32.6614 -96.6677,55.6661 -20.1638,23.1622 -30.1669,53.3291 -30.1669,90.3307 0,51.8362 20.6677,92.6677 61.8331,122.835 41.1717,30.1669 99.0047,45.1654 173.499,45.1654 43.6724,0 89.8331,-6.33071 138.671,-18.9984l0 -140c-20.5039,8.8315 -42.9984,16.1638 -67.5024,22.1669 -24.3339,5.83307 -44.8315,8.8315 -61.4992,8.8315 -13.6693,0 -24.6677,-2.33071 -32.8315,-6.83465 -8.17008,-4.49764 -12.1701,-10.8346 -12.1701,-18.9984 0,-9.49921 4.33386,-17.1654 13.1654,-22.9984 8.8378,-5.83307 26.337,-12.8378 52.8378,-21.0016 50.9984,-14.9984 87.6661,-34.1669 109.833,-57.6693 22.1669,-23.3323 33.1654,-53.4992 33.1654,-90.3307z"/></glyph>
+   <glyph unicode="b" horiz-adv-x="642"><path d="M614.003 265.165c0,-54.6646 -9.00157,-102.998 -27.1685,-145.165 -18.0031,-42.1669 -43.6661,-74.6646 -76.8315,-97.6693 -33.1717,-22.8283 -70.8346,-34.3307 -112.838,-34.3307 -32.1638,0 -59.8299,5.99685 -82.8346,17.8331 -22.8283,11.8362 -40.9953,27.3323 -54.3307,46.1669l-1.99685 0 0 -52 -208 0 0 740 208 0 0 -308 1.99685 0c16.1638,24.6677 38.3307,44.1638 66.1669,58.5008 27.8362,14.3307 58.5008,21.4992 92,21.4992 63.1685,0 111.666,-21.0016 145.335,-62.9984 33.663,-41.8331 50.5008,-103.169 50.5008,-183.836zm-211.005 -6.33071c0,33.4992 -6.50079,58.8346 -19.3323,75.6661 -12.8315,17.0016 -31.3323,25.4992 -55.3323,25.4992 -21.1654,0 -38.8346,-8.8315 -53.0016,-26.6646 -14.1669,-17.6693 -21.1654,-40.8378 -21.1654,-69.1717l0 -30.3307c0,-28.6677 6.33071,-51.5024 18.9984,-68.3339 12.6677,-17.0016 29.6693,-25.4992 51.1685,-25.4992 25.1654,0 44.4976,10.3307 58.1669,30.9984 13.663,20.6677 20.4976,50.0031 20.4976,87.8362z"/></glyph>
+   <glyph unicode="N" horiz-adv-x="812"><path d="M558.003 0l-247.169 337.833c-19.5024,26.6646 -35.5024,50.6646 -47.8362,72.1701l-1.99685 0c1.99685,-34.5008 2.99843,-73.1717 2.99843,-116.17l0 -293.833 -194.998 0 0 700 199.332 0 236.831 -321.165c2.83465,-4.17008 6.50079,-9.16535 10.6709,-15.1685 4.16378,-5.83307 8.49764,-11.8299 12.6614,-17.9969 4.33386,-6.16693 8.33386,-12.1701 12,-18.0031 3.66614,-5.83307 6.67087,-11.1685 8.50394,-15.6661l1.99685 0c-1.99685,14.3307 -2.99843,38.9984 -2.99843,74.1669l0 313.833 194.998 0 0 -700 -184.995 0z"/></glyph>
+   <glyph unicode="p" horiz-adv-x="642"><path d="M614.003 265.165c0,-54.6646 -9.33543,-102.998 -27.8362,-145.002 -18.5008,-41.8331 -44.8315,-74.4945 -78.6646,-97.4992 -33.8331,-23.1622 -71.8362,-34.6646 -114.167,-34.6646 -58.6709,0 -103.169,21.3354 -133.335,64l-1.99685 0 0 -282.003 -208 0 0 730.003 208 0 0 -68 1.99685 0c16.4976,25.0016 38.0031,44.6677 64.3339,58.8346 26.5008,14.1669 56.3339,21.1654 89.9969,21.1654 64.3339,0 113.833,-21.4992 148.17,-64.3339 34.3307,-42.9984 51.5024,-103.83 51.5024,-182.501zm-211.005 -6.33071c0,31.4961 -6.16693,56.3339 -18.3307,74.3307 -12.1701,17.8331 -30.9984,26.8346 -56.3339,26.8346 -22.1669,0 -40,-9.49921 -53.6693,-28.3339 -13.663,-18.9984 -20.4976,-44.8315 -20.4976,-77.8331l0 -9.66929c0,-31.6661 5.83307,-56.8315 17.4992,-75.8299 11.6661,-18.8346 29.3354,-28.3339 52.6677,-28.3339 25.1654,0 44.4976,10.3307 58.1669,30.9984 13.663,20.6677 20.4976,50.0031 20.4976,87.8362z"/></glyph>
+   <glyph unicode="m" horiz-adv-x="950"><path d="M698.003 0l0 288.164c0,24.1701 -4.33386,42.1669 -12.8378,54.0031 -8.66772,11.8362 -22.6646,17.8331 -42.1669,17.8331 -19.1622,0 -34.1669,-7.1685 -44.8315,-21.6693 -10.8346,-14.4945 -16.1638,-34.6646 -16.1638,-60.3276l0 -278.003 -208 0 0 283.332c0,51.1685 -17.3354,76.6677 -52.1701,76.6677 -21.1654,0 -37.0016,-7.33228 -47.6661,-22.1669 -10.8346,-14.8346 -16.1638,-36.1638 -16.1638,-63.8299l0 -274.003 -208 0 0 500 208 0 0 -78.9984 1.99685 0c7.83622,13.9969 20.1638,28.1638 37.3354,42.5008 16.9953,14.5008 36.3339,26.1669 57.8331,35.1622 21.3291,8.8378 44.6677,13.3354 69.663,13.3354 35.5024,0 65.3354,-6.99843 89.6693,-21.0016 24.1638,-13.8331 44.3339,-36 60.6677,-66.1669 17.663,28 40.9953,49.4992 70.3307,64.5039 29.3354,15.1622 62.0031,22.6646 97.8331,22.6646 52.3339,0 92.6677,-17.0016 120.668,-51.1685 28,-34.1669 42.0031,-83.4961 42.0031,-148l0 -312.831 -208 0z"/></glyph>
+   <glyph unicode="g" horiz-adv-x="642"><path d="M592 69.8331c0,-96.1638 -30.1669,-170.998 -90.6646,-224.498 -60.3339,-53.4992 -148.504,-80.3339 -264.504,-80.3339 -31.1622,0 -61.4992,2.50079 -90.8283,7.33228 -29.3354,4.8315 -50.337,10.3307 -63.0047,16.6677l0 162.998c20.8378,-13.0016 45.3354,-23.5024 73.3354,-31.3323 28,-7.83622 52.8315,-11.6661 74.6646,-11.6661 46.6709,0 84,11.1622 112,33.663 28,22.5008 42.0031,52.3339 42.0031,89.4992l0 30.8346 -2.00315 0c-14.9984,-22.6646 -35.4961,-40.8315 -61.663,-54.5008 -26.337,-13.663 -54.337,-20.4976 -84.3339,-20.4976 -64.5039,0 -115.332,22.3307 -152.838,67.1685 -37.4992,44.6677 -56.1638,106.331 -56.1638,184.995 0,54.0031 9.83307,101.669 29.3354,143.005 19.4961,41.3291 46.6646,73.1654 81.4992,95.3323 34.8346,22.3307 73.3291,33.4992 115.332,33.4992 57.4992,0 100.498,-21.3354 128.831,-64l2.00315 0 0 52 206.998 0 0 -430.167zm-203.502 194.331c0,29.3354 -6.66457,52.6677 -19.8299,70.0031 -13.1654,17.1654 -30.6646,25.8331 -52.5039,25.8331 -23.4961,0 -42.1606,-10.5008 -56.1638,-31.3323 -13.9969,-20.8315 -21.0016,-48.6677 -21.0016,-83.5024 0,-32.3339 5.83307,-57.8331 17.4992,-76.8315 11.8362,-18.8346 30.337,-28.3339 55.8362,-28.3339 23.6661,0 42.3307,9.66929 55.8299,29.1654 13.5055,19.3323 20.3339,45.3354 20.3339,77.8331l0 17.1654z"/></glyph>
+   <glyph unicode="S" horiz-adv-x="571"><path d="M554.998 212c0,-46.5008 -12.4976,-86.9984 -37.3291,-121.499 -24.8378,-34.5008 -59.8362,-60.1701 -104.668,-77.1654 -44.8378,-16.8378 -98.8346,-25.3354 -162.003,-25.3354 -73.1654,0 -140.164,12.3339 -200.995,37.1654l0 191.836c29.3291,-21.4992 61.663,-38.9984 97.1654,-52.1701 35.4961,-13.1654 68.4976,-19.8299 99.1622,-19.8299 23.0047,0 41.0016,4.16378 53.6693,12.4976 12.6677,8.33386 18.9984,20.3339 18.9984,36.3339 0,11.3323 -3.1622,21.4992 -9.49921,30.0031 -6.33071,8.66142 -16,16.6614 -28.8315,24.1638 -12.8315,7.50236 -36.6677,17.8331 -71.6661,30.8346 -112.668,43.3323 -169.002,113.329 -169.002,209.997 0,67.6661 25.6693,121.833 77.1654,162.337 51.3323,40.4976 120.334,60.8315 206.998,60.8315 24.3339,0 46.8346,-1.00157 67.3386,-2.99843 20.4976,-1.83307 39.1622,-4.33386 56,-7.1685 16.6614,-2.99843 40.1638,-8.49764 70.5008,-16.6677l0 -178.167c-59.0047,32 -116.838,48 -173.839,48 -23.4961,0 -42.3307,-4.33386 -56.6614,-13.1654 -14.337,-8.8315 -21.4992,-20.8315 -21.4992,-36.1638 0,-14.5008 5.83307,-26.6709 17.3291,-36.3339 11.5024,-9.49921 35.6661,-22.0031 72.5039,-37.3354 72.4976,-29.1654 123.83,-61.3354 153.997,-96.1638 30.1669,-34.6709 45.1654,-76 45.1654,-123.836z"/></glyph>
+   <glyph unicode="u" horiz-adv-x="626"><path d="M368 0l0 77.0016 -1.99685 0c-17.1717,-23.6661 -32.6677,-41.0016 -46.5008,-52 -13.8331,-10.9984 -29.4992,-20 -46.8346,-26.8346 -17.4992,-6.83465 -37.6693,-10.1669 -60.8315,-10.1669 -54.6709,0 -96.3339,17.6693 -124.838,53.1654 -28.6677,35.5024 -42.9984,87.8362 -42.9984,157.165l0 301.669 208 0 0 -286.167c0,-49.1654 18.3307,-73.8331 54.9984,-73.8331 20.1701,0 35.3323,6.66457 45.6693,20 10.1669,13.3354 15.3323,32.3339 15.3323,56.6677l0 283.332 208 0 0 -500 -208 0z"/></glyph>
+   <glyph unicode="r" horiz-adv-x="436"><path d="M426.003 322.003c-7.83622,3.49606 -18.337,6.82835 -31.6724,9.66299 -13.4992,2.83465 -24.4976,4.33386 -33.3291,4.33386 -68.6677,0 -102.998,-39.6661 -102.998,-119.169l0 -216.831 -208 0 0 500 208 0 0 -88 1.99685 0c12.6677,31.6661 30.6646,55.8362 54.1669,72.3339 23.5024,16.4976 50.8346,24.6677 81.9969,24.6677 11.5024,0 21.3354,-2.00315 29.8394,-5.83307l0 -181.165z"/></glyph>
+   <glyph unicode="a" horiz-adv-x="561"><path d="M326.998 0l0 76 -1.99685 0c-33.1654,-58.6646 -83.8362,-88 -152.17,-88 -47.1622,0 -84.1638,14.0031 -110.828,42.0031 -26.6709,28 -40,65.3291 -40,112.164 0,98.1669 60.3276,155.169 180.995,170.665l124 16.1701c0,16.3339 -7.33228,29.8331 -21.9969,40.3339 -14.5008,10.5008 -34.1669,15.6661 -58.9984,15.6661 -55.8362,0 -114.835,-16 -177.002,-48l0 134.998c26.9984,11.6661 60.8315,21.3354 101.499,28.8315 40.6677,7.50236 75.5024,11.1685 104.498,11.1685 84.8378,0 146.501,-18.1669 184.668,-54.5008 38.1669,-36.1638 57.3354,-96.8315 57.3354,-181.663l0 -275.836 -190.003 0zm-122.998 169.833c0,-13.6693 4.33386,-24.8315 13.0016,-33.6693 8.49764,-8.8315 20.8315,-13.1654 36.8315,-13.1654 21.8331,0 39.3323,8.17008 52.8315,24.5039 13.4992,16.1638 20.3339,36.9953 20.3339,62.5008l0 18.9984 -70.3307 -9.83307c-35.1685,-5.83307 -52.6677,-22.1669 -52.6677,-49.3354z"/></glyph>
+   <glyph unicode="o" horiz-adv-x="633"><path d="M606.003 258.835c0,-84.3339 -25.5055,-150.501 -76.3339,-198.671 -51.0047,-48.1638 -122.167,-72.1638 -213.669,-72.1638 -90.8346,0 -161.499,23.5024 -212.164,70.5008 -50.5008,46.9984 -75.8362,111.83 -75.8362,194.501 0,53.0016 11.8362,98.9984 35.6661,137.997 23.6661,39.0047 57.4992,69.0016 101.499,89.8331 44,20.8378 94.5008,31.1685 151.836,31.1685 59.1622,0 110.501,-10.8346 153.997,-32.6677 43.5024,-21.8331 76.8378,-52 100.17,-90.8346 23.1622,-38.6646 34.8346,-81.8331 34.8346,-129.663zm-211.005 -1.00157c0,68.1701 -25.9969,102.167 -77.9969,102.167 -52,0 -78.0031,-35.6661 -78.0031,-106.998 0,-75.3323 26.337,-113.002 79.0047,-113.002 51.3323,0 76.9953,39.3323 76.9953,117.833z"/></glyph>
+   <glyph unicode="M" horiz-adv-x="986"><path d="M710.003 0l0 383.666c0,36.1701 1.16535,75.8362 3.33228,119.169l1.49921 32.1638 -5.83307 0c-10.337,-54.9984 -18.337,-92.9953 -23.8362,-114.167l-103.162 -420.831 -198.167 0 -107.836 415.836c-2.99843,10.4945 -10.6646,50.1669 -22.9984,119.162l-5.83307 0c4.49764,-109.329 6.83465,-177.663 6.83465,-204.995l0 -330.003 -185.002 0 0 700 315.83 0 96.1701 -380c2.33071,-7.83622 5.32913,-23.6661 9.16535,-47.6661 3.66614,-23.8362 5.99685,-42.3307 6.99843,-55.3323l2.99843 0c3.50236,29.663 9.17165,64.4976 17.0016,104.831l89.8331 378.167 311.005 0 0 -700 -208 0z"/></glyph>
+   <glyph unicode="l" horiz-adv-x="308"><path d="M50.0031 0l0 740 208 0 0 -740 -208 0z"/></glyph>
+   <glyph unicode="J" horiz-adv-x="511"><path d="M450.003 298.835c0,-207.169 -100.668,-310.835 -302.167,-310.835 -16.1701,0 -35.8362,1.99685 -58.5008,5.83307 -22.8346,4 -45.8331,9.83307 -69.3354,17.4992l0 194.671c16.6677,-11.3386 35.1685,-20.5039 55.5024,-27.5024 20.3339,-6.99843 37.1654,-10.5008 50.5008,-10.5008 37.8331,0 66.1606,11.6661 84.8315,34.8346 18.8346,23.3323 28.1638,59.3323 28.1638,108.164l0 389.002 211.005 0 0 -401.165z"/></glyph>
+   <glyph unicode="i" horiz-adv-x="308"><path d="M270.167 634.665c0,-29.3291 -10.6646,-52.9953 -32,-71.3323 -21.3354,-18.1669 -49.3354,-27.3323 -84.1638,-27.3323 -33.8394,0 -61.6693,9.49921 -83.1685,28.3339 -21.6693,18.8346 -32.5039,42.3307 -32.5039,70.3307 0,28.6677 10.5008,52 31.5024,69.6693 21.0016,17.8331 49.0016,26.6646 84.1701,26.6646 34.8283,0 62.8283,-8.8315 84.1638,-26.6646 21.3354,-17.6693 32,-41.0016 32,-69.6693zm-220.164 -634.665l0 500 208 0 0 -500 -208 0z"/></glyph>
+  </font>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_882673360">
+   <g>
+    <path fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" d="M6800 17450l0 -3400c0,-276 224,-500 500,-500l9400 0c276,0 500,224 500,500l0 3400c0,276 -224,500 -500,500l-9400 0c-276,0 -500,-224 -500,-500z"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="15000" cy="14250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="16500" cy="14250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="14250" cy="14250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="15750" cy="14250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="13500" cy="14250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="12750" cy="14250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="12000" cy="14250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="11250" cy="14250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="10500" cy="14250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="9750" cy="14250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="9000" cy="14250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="8250" cy="14250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="7500" cy="14250" r="375"/>
+   </g>
+   <text x="8884" y="16717"  fill="none" stroke="blue" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" font-weight="900" font-size="1587.5" font-family="Segoe UI Black">January</text>
+  </g>
+  <g id="_882661840">
+   <g>
+    <path fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" d="M17300 17450l0 -3400c0,-276 224,-500 500,-500l9400 0c276,0 500,224 500,500l0 3400c0,276 -224,500 -500,500l-9400 0c-276,0 -500,-224 -500,-500z"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="25500" cy="14250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="27000" cy="14250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="24750" cy="14250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="26250" cy="14250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="24000" cy="14250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="23250" cy="14250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="22500" cy="14250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="21750" cy="14250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="21000" cy="14250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="20250" cy="14250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="19500" cy="14250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="18750" cy="14250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="18000" cy="14250" r="375"/>
+   </g>
+   <text x="20792" y="16717"  fill="none" stroke="blue" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" font-weight="900" font-size="1587.5" font-family="Segoe UI Black">May</text>
+  </g>
+  <g id="_1080110272">
+   <g>
+    <path fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" d="M27800 17450l0 -3400c0,-276 224,-500 500,-500l9400 0c276,0 500,224 500,500l0 3400c0,276 -224,500 -500,500l-9400 0c-276,0 -500,-224 -500,-500z"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="36000" cy="14250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="37500" cy="14250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="35250" cy="14250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="36750" cy="14250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="34500" cy="14250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="33750" cy="14250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="33000" cy="14250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="32250" cy="14250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="31500" cy="14250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="30750" cy="14250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="30000" cy="14250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="29250" cy="14250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="28500" cy="14250" r="375"/>
+   </g>
+   <text x="28738" y="16717"  fill="none" stroke="blue" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" font-weight="900" font-size="1587.5" font-family="Segoe UI Black">September</text>
+  </g>
+  <g id="_1080100544">
+   <g>
+    <path fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" d="M6800 21950l0 -3400c0,-276 224,-500 500,-500l9400 0c276,0 500,224 500,500l0 3400c0,276 -224,500 -500,500l-9400 0c-276,0 -500,-224 -500,-500z"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="15000" cy="18750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="16500" cy="18750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="14250" cy="18750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="15750" cy="18750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="13500" cy="18750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="12750" cy="18750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="12000" cy="18750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="11250" cy="18750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="10500" cy="18750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="9750" cy="18750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="9000" cy="18750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="8250" cy="18750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="7500" cy="18750" r="375"/>
+   </g>
+   <text x="8502" y="21217"  fill="none" stroke="blue" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" font-weight="900" font-size="1587.5" font-family="Segoe UI Black">February</text>
+  </g>
+  <g id="_1080155136">
+   <g>
+    <path fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" d="M17300 21950l0 -3400c0,-276 224,-500 500,-500l9400 0c276,0 500,224 500,500l0 3400c0,276 -224,500 -500,500l-9400 0c-276,0 -500,-224 -500,-500z"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="25500" cy="18750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="27000" cy="18750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="24750" cy="18750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="26250" cy="18750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="24000" cy="18750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="23250" cy="18750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="22500" cy="18750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="21750" cy="18750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="21000" cy="18750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="20250" cy="18750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="19500" cy="18750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="18750" cy="18750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="18000" cy="18750" r="375"/>
+   </g>
+   <text x="20632" y="21217"  fill="none" stroke="blue" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" font-weight="900" font-size="1587.5" font-family="Segoe UI Black">June</text>
+  </g>
+  <g id="_1080145344">
+   <g>
+    <path fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" d="M27800 21950l0 -3400c0,-276 224,-500 500,-500l9400 0c276,0 500,224 500,500l0 3400c0,276 -224,500 -500,500l-9400 0c-276,0 -500,-224 -500,-500z"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="36000" cy="18750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="37500" cy="18750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="35250" cy="18750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="36750" cy="18750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="34500" cy="18750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="33750" cy="18750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="33000" cy="18750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="32250" cy="18750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="31500" cy="18750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="30750" cy="18750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="30000" cy="18750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="29250" cy="18750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="28500" cy="18750" r="375"/>
+   </g>
+   <text x="29841" y="21217"  fill="none" stroke="blue" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" font-weight="900" font-size="1587.5" font-family="Segoe UI Black">October</text>
+  </g>
+  <g id="_1080135616">
+   <g>
+    <path fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" d="M6800 26450l0 -3400c0,-276 224,-500 500,-500l9400 0c276,0 500,224 500,500l0 3400c0,276 -224,500 -500,500l-9400 0c-276,0 -500,-224 -500,-500z"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="15000" cy="23250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="16500" cy="23250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="14250" cy="23250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="15750" cy="23250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="13500" cy="23250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="12750" cy="23250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="12000" cy="23250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="11250" cy="23250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="10500" cy="23250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="9750" cy="23250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="9000" cy="23250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="8250" cy="23250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="7500" cy="23250" r="375"/>
+   </g>
+   <text x="9519" y="25717"  fill="none" stroke="blue" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" font-weight="900" font-size="1587.5" font-family="Segoe UI Black">March</text>
+  </g>
+  <g id="_1080123840">
+   <g>
+    <path fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" d="M17300 26450l0 -3400c0,-276 224,-500 500,-500l9400 0c276,0 500,224 500,500l0 3400c0,276 -224,500 -500,500l-9400 0c-276,0 -500,-224 -500,-500z"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="25500" cy="23250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="27000" cy="23250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="24750" cy="23250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="26250" cy="23250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="24000" cy="23250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="23250" cy="23250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="22500" cy="23250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="21750" cy="23250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="21000" cy="23250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="20250" cy="23250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="19500" cy="23250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="18750" cy="23250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="18000" cy="23250" r="375"/>
+   </g>
+   <text x="20873" y="25717"  fill="none" stroke="blue" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" font-weight="900" font-size="1587.5" font-family="Segoe UI Black">July</text>
+  </g>
+  <g id="_1076873504">
+   <g>
+    <path fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" d="M27800 26450l0 -3400c0,-276 224,-500 500,-500l9400 0c276,0 500,224 500,500l0 3400c0,276 -224,500 -500,500l-9400 0c-276,0 -500,-224 -500,-500z"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="36000" cy="23250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="37500" cy="23250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="35250" cy="23250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="36750" cy="23250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="34500" cy="23250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="33750" cy="23250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="33000" cy="23250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="32250" cy="23250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="31500" cy="23250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="30750" cy="23250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="30000" cy="23250" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="29250" cy="23250" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="28500" cy="23250" r="375"/>
+   </g>
+   <text x="28863" y="25717"  fill="none" stroke="blue" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" font-weight="900" font-size="1587.5" font-family="Segoe UI Black">November</text>
+  </g>
+  <g id="_1076863168">
+   <g>
+    <path fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" d="M6800 30950l0 -3400c0,-276 224,-500 500,-500l9400 0c276,0 500,224 500,500l0 3400c0,276 -224,500 -500,500l-9400 0c-276,0 -500,-224 -500,-500z"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="15000" cy="27750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="16500" cy="27750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="14250" cy="27750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="15750" cy="27750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="13500" cy="27750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="12750" cy="27750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="12000" cy="27750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="11250" cy="27750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="10500" cy="27750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="9750" cy="27750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="9000" cy="27750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="8250" cy="27750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="7500" cy="27750" r="375"/>
+   </g>
+   <text x="10036" y="30217"  fill="none" stroke="blue" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" font-weight="900" font-size="1587.5" font-family="Segoe UI Black">April</text>
+  </g>
+  <g id="_1076852896">
+   <g>
+    <path fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" d="M17300 30950l0 -3400c0,-276 224,-500 500,-500l9400 0c276,0 500,224 500,500l0 3400c0,276 -224,500 -500,500l-9400 0c-276,0 -500,-224 -500,-500z"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="25500" cy="27750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="27000" cy="27750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="24750" cy="27750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="26250" cy="27750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="24000" cy="27750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="23250" cy="27750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="22500" cy="27750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="21750" cy="27750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="21000" cy="27750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="20250" cy="27750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="19500" cy="27750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="18750" cy="27750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="18000" cy="27750" r="375"/>
+   </g>
+   <text x="19663" y="30217"  fill="none" stroke="blue" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" font-weight="900" font-size="1587.5" font-family="Segoe UI Black">August</text>
+  </g>
+  <g id="_1076872608">
+   <g>
+    <path fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" d="M27800 30950l0 -3400c0,-276 224,-500 500,-500l9400 0c276,0 500,224 500,500l0 3400c0,276 -224,500 -500,500l-9400 0c-276,0 -500,-224 -500,-500z"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="36000" cy="27750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="37500" cy="27750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="35250" cy="27750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="36750" cy="27750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="34500" cy="27750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="33750" cy="27750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="33000" cy="27750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="32250" cy="27750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="31500" cy="27750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="30750" cy="27750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="30000" cy="27750" r="375"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="29250" cy="27750" r="150"/>
+    <circle fill="none" stroke="black" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" cx="28500" cy="27750" r="375"/>
+   </g>
+   <text x="29037" y="30217"  fill="none" stroke="blue" stroke-width="52.92" stroke-linecap="round" stroke-linejoin="round" font-weight="900" font-size="1587.5" font-family="Segoe UI Black">December</text>
+  </g>
+ </g>
+</svg>
