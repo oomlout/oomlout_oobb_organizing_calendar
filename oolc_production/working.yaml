@@ -14,4 +14,11 @@ production_format:
     file_location: source_files/oolc_5.cdr
   oolc_6_oobb_plate_label_3_3_a4_sheet:
     file_location: source_files/oolc_6.cdr
+  oolc_7_oobb_plate_label_3_2_day_type:
+    file_location: source_files/oolc_7.cdr
+  oolc_8_oobb_plate_label_3_2_a4_sheet:
+    file_location: source_files/oolc_8.cdr
+  oolc_9_oobb_plate_label_3_2_common:
+    file_location: source_files/oolc_9.cdr
+
 
